@@ -1,5 +1,5 @@
 ### Grocery List
 
-[] Apple x2
-[] Bananas x7
-[] Kiwis x3 
+- [ ] Apple ×2  
+- [ ] Bananas ×7  
+- [ ] Kiwis ×3
