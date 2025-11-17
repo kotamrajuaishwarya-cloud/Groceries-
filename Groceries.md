@@ -6,5 +6,6 @@
 - [ ] Tofu
 - [ ] Paneer
 - [ ] Milk
-- [ ] Yogurt 
-- [ ] Potatoes 
+- [ ] Yogurt
+- [ ] Cottage Cheese 
+- [ ] Tempeh  
