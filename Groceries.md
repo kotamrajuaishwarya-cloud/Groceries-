@@ -3,9 +3,9 @@
 - [ ] Apple ×2  
 - [ ] Bananas ×7  
 - [ ] Kiwis ×3
-- [ ] Tofu
-- [ ] Paneer
-- [ ] Milk
-- [ ] Yogurt
-- [ ] Cottage Cheese 
-- [ ] Tempeh  
+- [ ] Tofu-5
+- [ ] Paneer-4
+- [ ] Milk-1
+- [ ] Yogurt-2
+- [ ] Cottage Cheese-2
+- [ ] Tempeh-4 
